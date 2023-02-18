@@ -12,12 +12,21 @@ body {
     transform: translate(-50%, -50%);
     align-items: center;
 }
-
-h1 {
-    font-size: 60px;
-    color: white;
+.madwitch {
     position: fixed;
+    color: white;
     top: 14%;
+    font-size: 40px;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    align-items: center;
+}
+.invitebtn {
+    font-size: 60px;
+    color: purple;
+    position: fixed;
+    top: 82vh;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
