@@ -10,9 +10,15 @@
   icon: "fa-brands fa-steam"
   url: 'https://steamcommunity.com/id/Mergrow/'
 
-- type: discord
-  icon: "fa-brands fa-discord"
-  url: 'https://discord.gg/NkAdQMHvhW'
+#- type: discord
+#  icon: "fa-brands fa-discord"
+#  url: 'https://discord.gg/NkAdQMHvhW'
+
+
+- type: twitch
+  icon: "fa-brands fa-twitch"
+  url: "https://www.twitch.tv/mergrow_"
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
