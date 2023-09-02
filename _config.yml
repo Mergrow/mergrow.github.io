@@ -18,9 +18,9 @@ timezone: "America/Sao_Paulo"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mergrow # the main title
+title: Madwitch # the main title
 
-tagline: "madwitch.net" # it will display as the sub-title
+tagline: "by: <b>Mergrow</b>" # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   madwitch.net
