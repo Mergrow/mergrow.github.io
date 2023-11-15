@@ -7,6 +7,9 @@ order: 4
 
 Hi, i'm Mergrow. Thats it :)
 
+**My pfp:** [Sorceress by Nibelart.](https://nibelart.artstation.com/projects/lVYJvG)
+
+
 - # **Computer specs**
 
     - **mobo**: Asus TUF B450M-PLUS GAMING
