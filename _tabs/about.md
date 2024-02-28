@@ -28,7 +28,7 @@ Thats it :)
 - # **Peripherals**
 
     - **Headset**: Tangzu Wan'er SG Jade Green IEM
-    - **Microphone**: Blue Yeti Classic Black
+    - **Microphone**: Blue Yeti Classic Silver
     - **Mouse**: Logitech GPRO Wireless
     - **Keyboard**: Keychron K8 Pro Gatereon G Pro Reds
     - **Mousepad**: GFallen candy Speed+ Extended (900x400mm)
