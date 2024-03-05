@@ -27,7 +27,7 @@ Thats it :)
 
 - # **Peripherals**
 
-    - **Headset**: Tangzu Wan'er SG Jade Green IEM
+    - **Headset**: NiceHCK DB2 Purple IEM
     - **Microphone**: Blue Yeti Classic Silver
     - **Mouse**: Logitech GPRO Wireless
     - **Keyboard**: Keychron K8 Pro Gatereon G Pro Reds
