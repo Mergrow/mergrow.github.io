@@ -57,9 +57,10 @@ pageviews:
   provider: ""
 
 # Theme & appearance
-theme_mode: 
+theme_mode:
 avatar: /assets/img/p.jpg
-social_preview_image: /assets/img/favicons/social.png
+favicon: /assets/img/favicons/favicon.ico
+social_preview_image: /assets/img/favicons/favicon.png
 toc: true
 
 # Comments
