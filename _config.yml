@@ -59,7 +59,6 @@ pageviews:
 # Theme & appearance
 theme_mode:
 avatar: /assets/img/p.jpg
-favicon: /assets/img/favicons/favicon.ico
 social_preview_image: /assets/img/favicons/favicon.png
 toc: true
 
