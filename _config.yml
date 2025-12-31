@@ -79,7 +79,7 @@ comments:
     strict: 0
     input_position: bottom
     lang: en
-    reactions_enabled: 1
+    reactions_enabled: 0
 
 # Self-hosted assets
 assets:
