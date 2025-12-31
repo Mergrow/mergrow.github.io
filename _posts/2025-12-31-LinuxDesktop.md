@@ -9,6 +9,7 @@ tags: [ptbr, linux, desktop, cachyos]
 Esse é o meu primeiro post aqui e vou comentar sobre meu descontentamento com o Windows e tudo o que me levou a abandoná-lo de vez e migrar para o Linux.
 
 ![Tux natalino](/assets/img/tuxnatal.png){: .normal }
+
 ## Fim do suporte do Windows 10
 
 A data é **30/12/2025**, dia anterior à véspera de Ano Novo.
