@@ -3,6 +3,7 @@ title: Estou finalmente migrando meu desktop para Linux.
 date: 2025-12-31 06:54:00 +/-0200 # -200 brazil timezone.
 categories: [Linux]
 tags: [ptbr, linux, desktop, cachyos]
+published: false
 ---
 
 
